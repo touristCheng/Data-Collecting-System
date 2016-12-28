@@ -1,5 +1,8 @@
-# DataCollectingSystem_
-collect data
+# Data Collecting System
 
-1.上传服务器的部分需要修改
-2.界面美化
+## overview
+This is a data collecting system, it can get the current longitude, latitude, altitude and speed, and upload them to the server.
+
+
+
+
